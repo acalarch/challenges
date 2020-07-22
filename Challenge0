@@ -1,5 +1,7 @@
 When: June 24 2020
-Description: This text is encoded with base64 & viginere cipher, what is the key?
+Difficulty: Easy
+Description: This the challenge text is encoded with base64 & viginere cipher.
+Question: What viginere cipher key was used to encode the challenge text?
 Hint1: Prince Hamlet
 Hint2: 18
 Answers: @acalarch on twitter
