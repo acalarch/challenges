@@ -3,6 +3,7 @@ Difficulty: Easy
 Description: There are three payload files, each have been encoded like this base64(xor_key_FA(base64(file))). 
 Question: What are the appropriate extensions for these binaries? (e.g. .wsh, .hta, .vbs, etc).
 Warning: These files should be analyzed in a lab environment, not in production. They are not malicious but AV may complain as they emulate an attack.
+Answers: @acalarch on twitter
 
 Begin Challenge:
 
