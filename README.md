@@ -2,7 +2,7 @@
 This repository contains a series of challenges from SOC Prime's Monthly Talks https://my.socprime.com/webinar/
 
 ## I've solved one!
-Solutions go to @acalarch on twitter
+Solutions direct message @acalarch on twitter
 
 ## Answers 
 Answers are covered in SOC Prime's monthly talks. Otherwise reach out and I will let you know if your answers are correct.
