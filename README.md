@@ -1,6 +1,10 @@
 ## Challenges
 This repository contains a series of challenges from SOC Prime's Monthly Talks https://my.socprime.com/webinar/
 
+## Help i'm stuck
+Challenges that require hints contain hints. Chef recipies are referring to https://gchq.github.io/CyberChef/
+Hints will be added overtime if challenges go unsolved.
+
 ## I've solved one!
 Solutions direct message @acalarch on twitter
 
