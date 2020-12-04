@@ -15,7 +15,7 @@ Answers are covered in SOC Prime's monthly talks. Otherwise reach out and I will
 Congratulations to the following people for being the first to solve 🎉
 * Challenge0: Michael Remen 
 * Challenge1: @GWKarasu 
-* Challenge2: Unsolved 
+* Challenge2: @dev0x01
 * Challenge3: @semanurtg 
 
 ## Next challenge? 
