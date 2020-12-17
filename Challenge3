@@ -1,6 +1,6 @@
 When: November 24 2020
 Difficulty: Medium #updated to reflect change to script to make it easier
-Description: There is a base64 encoded python script. The script contains a secret message... if you provide the correct pasword.
+Description: There is a base64 encoded python script. The script contains a secret message... if you provide the correct password.
 Question 0: What is the password :)
 Answers: @acalarch on twitter
 Winner: @semanurtg
