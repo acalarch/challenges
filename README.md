@@ -17,6 +17,7 @@ Congratulations to the following people for being the first to solve 🎉
 * Challenge1: @GWKarasu 
 * Challenge2: @dev0x01
 * Challenge3: @semanurtg 
+* Challenge4: @dev0x01
 
 ## Next challenge? 
 Challenges are introduced during SOC Prime's Monthly talks.. the next talk will be posted here: 
