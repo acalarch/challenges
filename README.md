@@ -3,8 +3,9 @@ This repository contains a series of challenges from SOC Prime's Monthly Talks h
 The challenges are designed to be "just hard enough" for newer folks in cybersecurity. I mark each with an anticipated difficulty. Knowing how to code (python) will probably help with most of them. Some are solvable just by using free tools. Some are puzzles.. some are just analysis tasks. 
 
 ## Help i'm stuck
-Challenges that require hints contain hints. Chef recipies are referring to https://gchq.github.io/CyberChef/
-Hints will be added overtime if challenges go unsolved.
+Challenges that require hints contain hints.  
+Chef recipies are referring to https://gchq.github.io/CyberChef/  
+Hints will be added overtime if challenges go unsolved.  
 
 ## I've solved one!
 Solutions direct message @acalarch on twitter
