@@ -1,5 +1,5 @@
 ## Challenges
-This repository contains a series of challenges from SOC Prime's Monthly Talks https://my.socprime.com/webinar/
+This repository contains a series of challenges from SOC Prime's Monthly Talks https://my.socprime.com/webinar/  
 The challenges are designed to be "just hard enough" for newer folks in cybersecurity. I mark each with an anticipated difficulty. Knowing how to code (python) will probably help with most of them. Some are solvable just by using free tools. Some are puzzles some are just analysis tasks. 
 
 ## Help i'm stuck
