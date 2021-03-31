@@ -1,0 +1,9 @@
+When: February 25 2021
+Difficulty: Easy-Medium
+Description: Writing a SIGMA correlation rule
+Answers: @acalarch on twitter
+Winner: 
+
+Begin Challenge:
+Write process_creation category SIGMA rule compatible with sysmon that detects the following behavior:
+A single instance of powershell.exe spawning at least 3 of the following executables in nltest.exe, wmic.exe, adfind.exe, systeminfo.exe, vssadmin.exe, net.exe, net1.exe, whoami.exe, ipconfig.exe, netsh.exe, reg.exe
